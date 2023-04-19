@@ -1,0 +1,28 @@
+body{
+    background-color:lightskyblue;/*background color*/
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*font style*/
+    color:black; /*font color*/
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+  }
+  
+  .name {
+    font-size: 4em; /* font size of name */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  .links{
+    font-size:1.3em;
+    color:brown;
+    text-align: right;
+  }
+ 
+  .list{
+    font-size: 1em;
+    background-color: darksalmon;
+    
+  }
